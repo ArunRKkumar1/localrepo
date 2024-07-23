@@ -1,2 +1,2 @@
-This is local repo to 
-remote repo convert content.
+Converted into local repo to 
+remote repo.
